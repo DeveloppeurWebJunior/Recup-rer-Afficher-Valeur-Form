@@ -1,0 +1,152 @@
+        #mon_formulaire {
+
+            display: flex;
+            justify-content: space-around;
+            width: 100%;
+            height: 200px;
+            line-height: 200px;
+            background: #5757c7;
+            margin: 5% 0 0 0;
+
+        }
+        
+        
+        
+        
+        .mes-img{
+         background: url(https://img.etsystatic.com/il/08f00f/443645406/il_570xN.443645406_igw1.jpg?version=0) no-repeat fixed;
+             width: auto;
+    height: 100vh;
+    max-width: 100%;
+   
+    background-size: cover;
+        }
+
+
+        label {
+            font-size: 25px;
+        }
+
+
+        ol {
+           
+            color: black;
+           
+        }
+
+
+
+
+
+        .titre {
+            text-align: center;
+            font-size: 30px;
+        }
+
+
+
+i{
+    font-size: 2rem;
+}
+
+
+h2{
+    color: black;
+    font-size: 20px;
+}
+
+
+
+
+
+        p {
+            font-size: 20px;
+            text-align: center;
+            color: darkblue;
+            margin-top:10px
+        }
+        
+        
+        
+
+        #parentshari{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin-top: 5%;
+            
+            
+    width: 100%;
+    height: auto;
+    opacity: 1;
+            
+        }
+        
+        
+
+        
+        
+        
+        .boites {
+
+       width : 20%;
+        height: 250px;
+            
+}
+
+
+
+
+
+.sharigan{
+    
+    background: url(img/sharingan.gif);
+    border: 2px dashed goldenrod;
+    transition: border 1000ms ease;
+    background-size: cover;
+}
+  
+  
+        
+        #bouton{
+            
+            width: 200px;
+            height: 50px;
+            margin: 5% 0% 0% 40%;
+        }
+        
+
+
+
+
+#element{
+    display: flex;
+        flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 5% 0% 0% 0%;
+
+}
+
+
+
+
+figcaption{
+    
+    font-size: 15px;
+    text-align: justify;
+    
+}
+
+
+
+#recherche{
+    
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
